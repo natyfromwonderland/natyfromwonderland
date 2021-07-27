@@ -1,5 +1,6 @@
-### Hi there 👋
+<img alt="hero image" src="https://github.com/natyfromwonderland/natyfromwonderland/blob/main/masthead.png">
 
+Hi there! I'm Natalia. Currently based in Manchester.
 <!--
 **natyfromwonderland/natyfromwonderland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
