@@ -1,4 +1,4 @@
-<img alt="hero image" src="https://github.com/natyfromwonderland/natyfromwonderland/blob/main/masthead.png">
+<img alt="hero image" src="https://github.com/natyfromwonderland/natyfromwonderland/blob/main/readme-01.png">
 
 Hi there! I'm Natalia. Currently based in Manchester.
 <!--
