@@ -1,6 +1,6 @@
 <img alt="hero image" src="https://github.com/natyfromwonderland/natyfromwonderland/blob/main/readme-01.png">
 
-Hi there! I'm Natalia. Currently based in Manchester.
+Hi there! I'm Natalia. Currently based in Paris, France.
 
 Outside github, you can check my professional experience and design work here:
 
