@@ -5,7 +5,7 @@ Hi there! I'm Natalia. Currently based in Paris, France.
 Outside github, you can check my professional experience and design work here:
 
 1. [LinkedIn](https://uk.linkedin.com/in/natashashilyaeva) - my professional LinkedIn profile. 
-2. [Website](https://natyshilyaeva.myportfolio.com/) - UX and graphic design case studies.
+2. [Website](https://www.nshilyaeva.rocks/)/) - UX and graphic design case studies.
 3. [Instagram](https://www.instagram.com/naty.designs/?hl=en-gb) - my playground.
 4. [Print Shop](https://www.spreadshirt.co.uk/shop/user/naty.designs/) - get my selected illustrations printed on various apparel and accessories!
 
